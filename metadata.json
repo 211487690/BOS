@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pengelolaan BOS",
+  "description": "Aplikasi Pengelolaan BOS dengan Pelaporan Otomatis, Simulasi Pajak, & Engine Kepatuhan Juknis Transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
